@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/MySQL--478cf0?style=flat&labelColor=478cf0&logo=mysql&logoColor=white&logoSize=auto" alt="MySQL">
 </p>
 
-👨‍💻 Currentyl studying System Analyst using:
+👨‍💻 Currentyl studying System Analyst and learning:
 <p>
 <img src="https://img.shields.io/badge/C%23--5b0fc5?style=flat&labelColor=5b0fc5&logo=dotnet" alt=".NET C#">
 <img alt="Microsoft SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20SERVER-%23de0c0c">

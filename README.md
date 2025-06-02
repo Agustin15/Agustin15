@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Agustin Miranda!
 
-🛠 When develop, I usually can use
+🛠 When develop, I usually can use:
 
 <p>
 <img src="https://img.shields.io/badge/HTML--da310d?style=flat&labelColor=da310d&logo=html5&logoColor=white&logoSize=auto" alt="Badge">
@@ -11,5 +11,14 @@
 <img src="https://img.shields.io/badge/PHP--677cdd?style=flat&labelColor=677cdd&logo=php&logoColor=faf2f2&logoSize=auto" alt="Badge">
 <img src="https://img.shields.io/badge/MySQL--478cf0?style=flat&labelColor=478cf0&logo=mysql&logoColor=white&logoSize=auto" alt="Badge">
 </p>
+
+👨‍💻 Currentyl studying System Analyst using:
+<p>
+<img src="https://img.shields.io/badge/C%23--5b0fc5?style=flat&labelColor=5b0fc5&logo=dotnet" alt="Badge">
+<img src="https://img.shields.io/badge/MySQL--478cf0?style=flat&labelColor=478cf0&logo=mysql&logoColor=white&logoSize=auto" alt="Badge">
+</p>
+
+
+
 
 
